@@ -1,0 +1,29 @@
+Arquivos em deployment/
+
+pipeline-overview.md → Visão geral do pipeline CI/CD
+
+backend-render.md → Deploy backend Render
+
+backend-railway.md → Deploy backend Railway
+
+backend-heroku.md → Deploy backend Heroku
+
+frontend-vercel.md → Deploy frontend Vercel
+
+frontend-netlify.md → Deploy frontend Netlify
+
+Arquivos em monitoring/
+
+health-checks.md → Endpoints de health check
+
+uptime-monitoring.md → Monitoramento de uptime
+
+sentry-setup.md → Integração Sentry para erros
+
+logs-winston.md → Configuração de logs no backend
+
+performance.md → Monitoramento de performance backend e frontend
+
+MAINTENANCE.md
+
+Plano de manutenção, backups do banco, procedimentos de rollback e deploy.
